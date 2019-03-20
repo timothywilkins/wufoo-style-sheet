@@ -30,6 +30,6 @@
     background-color:orange;
 }
 
-#errorLi, .error-container{
-    display:none;
+#errorLi {
+    display:none !important;
 }
