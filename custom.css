@@ -11,5 +11,5 @@
 .wufoo .info{display:none}
 
 .wufoo label.desc, .wufoo legend.desc, .likert caption  {
-    color:red;
+    color:red !important;
 }
