@@ -8,11 +8,4 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-header {
-  
- display:none;
-}
-
-h1 {
-    color:red;
-}
+.wufoo .info{display:none}
