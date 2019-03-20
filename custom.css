@@ -8,8 +8,15 @@
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-.wufoo .info{display:none}
+.wufoo {
+    background-color:#5e5e5e;
+}
+
+.wufoo .info{
+    display:none;
+}
 
 .wufoo label.desc, .wufoo legend.desc, .likert caption  {
     color:red !important;
+
 }
