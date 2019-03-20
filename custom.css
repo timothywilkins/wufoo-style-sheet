@@ -10,6 +10,6 @@
 
 .wufoo .info{display:none}
 
-.wufoo label {
+.wufoo label.desc, .wufoo legend.desc, .likert caption  {
     color:red;
 }
