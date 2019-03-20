@@ -9,3 +9,7 @@
 - - - - - - - - - - - - - - - - - - - - - */
 
 .wufoo .info{display:none}
+
+label {
+    color:red;
+}
