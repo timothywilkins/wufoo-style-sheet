@@ -29,3 +29,7 @@
     color:white;
     background-color:orange;
 }
+
+#errorLi, .error-container{
+    display:none;
+}
